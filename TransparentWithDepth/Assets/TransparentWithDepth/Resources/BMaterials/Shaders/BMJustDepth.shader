@@ -6,7 +6,7 @@
 	SubShader
 	{
 		Tags { "RenderType"="Opaque" }
-
+		ColorMask 0
 		Pass
 		{
 			CGPROGRAM
@@ -35,7 +35,6 @@
 			
 			fixed4 frag (v2f i) : SV_Target
 			{
-				discard;
 				return 0;
 			}
 			ENDCG
