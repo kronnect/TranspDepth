@@ -17,8 +17,4 @@ Use "Remove Depth Compatibility" to revert any change on the game object.
 The demo scene included can be used as a test bed for your image effects.
 
 
-Questions?
-Send me an email! 
-contact /at/ kronnect.me
-www.kronnect.com
 
